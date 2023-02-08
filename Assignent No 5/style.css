@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.collapse{
+    padding-left: 10%;
+}
+
+
+.button-nav{
+    background-color: rgb(255, 103, 2) !important;
+    border-radius: 0;
+   
+}
+@media only screen and (max-width: 480px) {
+    .lemon {
+      display: none;
+    }
+  }
